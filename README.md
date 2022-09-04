@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/RaayNoff/RaayNoff/main/assets/bJk.gif)
 
-About me
+## I'm Junior React Developer
 
 Languages and Tools
 
