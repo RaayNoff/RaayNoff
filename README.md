@@ -1,10 +1,10 @@
 ![Header](https://github.com/RaayNoff/RaayNoff/blob/main/assets/header.gif?raw=true)
 
-<h1 align="center">I'm Junior React Developer</h1>
+<h1 align="center">I'm Junior Frontend Developer</h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=I'm+interested+in+web+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=Interested+in+web+development)](https://git.io/typing-svg)
 
 </div>
 
