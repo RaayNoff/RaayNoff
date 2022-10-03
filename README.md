@@ -11,7 +11,8 @@
 <h2 align="center">Lastest projects</h2>
 <section align="center">
 
-[![TODO CARD](https://github-readme-stats.vercel.app/api/pin/?username=raaynoff&repo=todo__list&theme=blueberry&show_owner=true)](https://github.com/RaayNoff/todo__list) [![TODO CARD](https://github-readme-stats.vercel.app/api/pin/?username=raaynoff&repo=test-task-cifra&theme=blueberry&show_owner=true)](https://github.com/RaayNoff/test-task-cifra)
+[![TODO CARD](https://github-readme-stats.vercel.app/api/pin/?username=raaynoff&repo=todo__list&theme=blueberry&show_owner=true)](https://github.com/RaayNoff/todo__list) [![REQRES.In](https://github-readme-stats.vercel.app/api/pin/?username=raaynoff&repo=reqres.in&theme=blueberry&show_owner=true)](https://github.com/RaayNoff/reqres.in) [![Console Frontend](https://github-readme-stats.vercel.app/api/pin/?username=raaynoff&repo=console-frontend&theme=blueberry&show_owner=true)](https://github.com/RaayNoff/console-frontend)
+[![Console Backend](https://github-readme-stats.vercel.app/api/pin/?username=raaynoff&repo=console-backend&theme=blueberry&show_owner=true)](https://github.com/RaayNoff/console-backend)
 
 </section>
 
