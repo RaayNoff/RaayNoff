@@ -1,7 +1,9 @@
 ![Header](https://github.com/RaayNoff/RaayNoff/blob/main/assets/header.gif?raw=true)
 
 <div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=Interested+in+web+development)](https://git.io/typing-svg)
+
 </div>
 
 <h2 align="center">Lastest projects</h2>
